@@ -1,2 +1,4 @@
 # wizzyjs
-Wizzy is a javascript lib for building comprehensive, wizard-like user journeys. 
+Wizzy is a javascript library for building comprehensive, wizard-like user journeys. 
+
+documentation coming soon
